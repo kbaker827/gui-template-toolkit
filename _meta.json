@@ -1,0 +1,14 @@
+{
+  "name": "gui-template-toolkit",
+  "version": "1.0.0",
+  "description": "GUI application templates for Python tkinter - extracted from 4+ GUI tools via Ralph Loop",
+  "author": "Ralph Loop / Kyle Baker",
+  "generated": "2026-02-24",
+  "source": "ralph-loop-analysis",
+  "patterns": [
+    "tkinter",
+    "progress-bars",
+    "threading",
+    "widgets"
+  ]
+}
